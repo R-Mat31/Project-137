@@ -1,0 +1,26 @@
+body{
+ background-size : cover;
+}
+h1{
+ width : 50%;
+ border-radius : 20px;
+}
+h4{
+ width : 55%;
+ border-radius : 20px;
+}
+input{
+ border-radius : 20px;
+ border : gold dashed;
+}
+button{
+ background-color : darkmagenta;
+}
+#status, #found_or_not{
+ background-color : darkolivegreen;
+ width : 20%;
+}
+canvas{
+ border-radius : 20px;
+ box-shadow : black 4px 4px 4px;
+}
